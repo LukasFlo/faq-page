@@ -2,7 +2,7 @@
 
 
 <details>
-<summary><span style="font-size: larger; font-weight: bold;">Sales</span></summary>
+<summary><span style="font-size: 20px; font-weight: bold;">Sales</span></summary>
 
 <details>
 <summary>What products do we offer?</summary>
@@ -21,7 +21,7 @@
 </details>
 
 <details>
-<summary><span style="font-size: larger; font-weight: bold;">General</span></summary>
+<summary><span style="font-size: 20px; font-weight: bold;">General</span></summary>
 
 <details>
 <summary>What is the company's mission?</summary>
