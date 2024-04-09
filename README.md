@@ -13,7 +13,9 @@
 <details>
 <summary>How do I generate a sales report?</summary>
 
-- Answer: To generate a sales report, follow these steps...
+- Answer: To generate a sales report, follow these steps you need to do this shit:
+![Alt Text](images/my_image.png)
+
 </details>
 
 </details>
