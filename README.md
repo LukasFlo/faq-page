@@ -1,8 +1,8 @@
-### faq-page Gondwana Brasil
+### Frequently Asked Questions - Gondwana Brasil
 
 
 <details>
-<summary><h2>Sales</h2></summary>
+<summary><h2>General</h2></summary>
 <details>
 <summary>What products do we offer?</summary>
 
@@ -20,7 +20,7 @@
 </details>
 
 <details>
-<summary><span style="font-size: 40px; font-weight: bold;">General</span></summary>
+<summary><h2>Sales</h2></summary>
 
 <details>
 <summary>What is the company's mission?</summary>
