@@ -14,7 +14,10 @@
 <summary>How do I generate a sales report?</summary>
 
 - Answer: To generate a sales report, follow these steps you need to do this shit:
+  
   <img src="https://raw.githubusercontent.com/LukasFlo/faq-page/main/1685108061312%20(2).jpg?token=GHSAT0AAAAAACQX6N7W2TJRD3JJ4IKTBIJIZQVFEXQ" alt="Product Image" width="400">
+
+  
 
 
 </details>
