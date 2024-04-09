@@ -2,7 +2,7 @@
 
 
 <details>
-## <span style="font-size:30px;">Sales</span>
+<summary><span style="font-size: 24px; font-weight: bold;">Sales</span></summary>
 
 <details>
 <summary>What products do we offer?</summary>
