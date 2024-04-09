@@ -2,7 +2,7 @@
 
 
 <details>
-## General
+<summary>**Sales**</summary>
 <details>
 <summary>What products do we offer?</summary>
 
